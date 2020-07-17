@@ -1,0 +1,8 @@
+[1]===>browser-sync start --server --directory --files "*"
+
+YOU have first install node.js
+this command is needed to syncronize all files in the directory with broswer .... and this don't need to make Ctrl+S every time for the editor
+to save your work
+
+====================================================
+[2]
